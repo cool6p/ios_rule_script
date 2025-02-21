@@ -8,6 +8,7 @@
 DOMAIN-SUFFIX , ls.apple.com                     
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,gsa.apple.com
+DOMAIN,c.apple.news
 DOMAIN,gsas.apple.com                   
 DOMAIN,news-client-search.apple.com
 USER-AGENT,AppleNews*
